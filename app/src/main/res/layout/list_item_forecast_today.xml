@@ -74,7 +74,4 @@
         app:layout_constraintTop_toBottomOf="@+id/highTempTextView"
         tools:text="9\u00b0" />
 
-    <!-- This View serves as a visual divider between list items -->
-
-
 </android.support.constraint.ConstraintLayout>
